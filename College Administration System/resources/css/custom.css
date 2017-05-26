@@ -1,0 +1,35 @@
+@CHARSET "ISO-8859-1";
+
+.success {
+color: #4F8A10;
+background-color: #DFF2BF;
+}
+body{
+	background-color: #C0C0C0;
+}
+.mainContainer{
+	position: absolute;
+	top:0px;right:20%;bottom:0px;left:20%;
+	 padding:125px 10px 10px 10px; background-color: #FFFFFF;
+}
+button{
+font-size: 20px; background-color: #00FFFF; border-color: #00FFFF;color: #800000;
+}
+.submitButton{
+font-size: 20px; background-color: #00FFFF; border-color: #00FFFF;color: #800000;
+}
+.panelBorderFormat{
+border: 1px solid ;border-radius: 0px 0px 20px 20px;padding-top: 10px;
+}
+.panelTopFormat{
+border: 1px solid ;border-radius: 20px 20px 0px 0px;background-color: #C0C0C0; padding: 10px;font-weight: bold;font-size: 18px;;
+}
+.smallFont{
+	font-size: 14px;font-family: serif sans-serif;
+}
+.smallBoldFont{
+	font-size: 12px; font-weight: bold;font-family: serif sans-serif;
+}
+.error{
+color: red;
+}
